@@ -1,0 +1,20 @@
+C:\Users\aleja\source\repos\THE GRID\THE GRID\bin\Debug\THE GRID.exe.config
+C:\Users\aleja\source\repos\THE GRID\THE GRID\bin\Debug\THE GRID.exe
+C:\Users\aleja\source\repos\THE GRID\THE GRID\bin\Debug\THE GRID.pdb
+C:\Users\aleja\source\repos\THE GRID\THE GRID\obj\Debug\THE GRID.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\THE GRID\THE GRID\obj\Debug\THE_GRID.Form1.resources
+C:\Users\aleja\source\repos\THE GRID\THE GRID\obj\Debug\THE_GRID.Properties.Resources.resources
+C:\Users\aleja\source\repos\THE GRID\THE GRID\obj\Debug\THE GRID.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\THE GRID\THE GRID\obj\Debug\THE GRID.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\THE GRID\THE GRID\obj\Debug\THE GRID.exe
+C:\Users\aleja\source\repos\THE GRID\THE GRID\obj\Debug\THE GRID.pdb
+C:\Users\aleja\Desktop\vs\THE GRID\THE GRID\obj\Debug\THE GRID.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\vs\THE GRID\THE GRID\obj\Debug\THE_GRID.Form1.resources
+C:\Users\aleja\Desktop\vs\THE GRID\THE GRID\obj\Debug\THE_GRID.Properties.Resources.resources
+C:\Users\aleja\Desktop\vs\THE GRID\THE GRID\obj\Debug\THE GRID.csproj.GenerateResource.cache
+C:\Users\aleja\Desktop\vs\THE GRID\THE GRID\obj\Debug\THE GRID.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\vs\THE GRID\THE GRID\obj\Debug\THE GRID.exe
+C:\Users\aleja\Desktop\vs\THE GRID\THE GRID\obj\Debug\THE GRID.pdb
+C:\Users\aleja\Desktop\vs\THE GRID\THE GRID\bin\Debug\THE GRID.exe.config
+C:\Users\aleja\Desktop\vs\THE GRID\THE GRID\bin\Debug\THE GRID.exe
+C:\Users\aleja\Desktop\vs\THE GRID\THE GRID\bin\Debug\THE GRID.pdb
